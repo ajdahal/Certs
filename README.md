@@ -1,2 +1,2 @@
 # Certs
-Few Mini Certs from RSAConference2020APAC and MOOCs
+Few Certs from RSAConference2020APAC and MOOCs
